@@ -1,0 +1,3 @@
+This file imports global weekly covid data, and tests a series of potential Neural Networks on it. The experiment is to find the variety of neural depth and breadth that
+best fits to explain the data (measured in R-Squared), which I then use to train on a subset and test on a subset of the data, graphing the performance of Mean Aboslute 
+Error by country, and observing MSE.
